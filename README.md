@@ -19,7 +19,7 @@ A master's thesis project integrating probabilistic topic information and embedd
 - Constructed keyword graphs and applied GCN + DMoN clustering
 - Evaluated topics using coherence and modularity metrics
 
-Repository: Graph_Neural_Network_Based_TopicModel_Integrating_Probabilistic_and_Embedding_Information_of_Words
+Repository: gnn-topic-model
 
 ### Meta-Community Topic Analysis
 A keyword network-based approach for integrating multiple similarity structures and extracting topic communities.
