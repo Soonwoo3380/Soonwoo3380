@@ -4,11 +4,14 @@ M.S. in Data Science from Kyungpook National University.
 I am interested in NLP, topic modeling, graph neural networks, and interpretable data analysis.
 
 ## Research Interest
-- Topic Modeling
-- Graph Neural Networks
-- Natural Language Processing
-- Keyword Network Analysis
-- Data-driven Decision Support
+<p>
+  <img src="https://img.shields.io/badge/Topic%20Modeling-1f77b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-9467bd?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-ff7f0e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Keyword%20Network-2ca02c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Interpretable%20Data%20Analysis-d62728?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data--driven%20Decision%20Support-17becf?style=for-the-badge"/>
+</p>
 
 ## Featured Projects
 
