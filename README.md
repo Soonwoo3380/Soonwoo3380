@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Soonwoo Kim ☺️
 
-<!--
-**Soonwoo3380/Soonwoo3380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. in Data Science from Kyungpook National University.  
+I am interested in NLP, topic modeling, graph neural networks, and interpretable data analysis.
 
-Here are some ideas to get you started:
+## Research Interest
+- Topic Modeling
+- Graph Neural Networks
+- Natural Language Processing
+- Keyword Network Analysis
+- Data-driven Decision Support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Graph Neural Network-Based Topic Model
+A master's thesis project integrating probabilistic topic information and embedding-based semantic information into a keyword graph.
+
+- Combined LDA-based probabilistic structure with BERTopic/SBERT embeddings
+- Constructed keyword graphs and applied GCN + DMoN clustering
+- Evaluated topics using coherence and modularity metrics
+
+Repository: Graph_Neural_Network_Based_TopicModel_Integrating_Probabilistic_and_Embedding_Information_of_Words
+
+### Meta-Community Topic Analysis
+A keyword network-based approach for integrating multiple similarity structures and extracting topic communities.
+
+### Machine Learning Implementations
+Personal implementations and experiments for machine learning models.
+
+## Tech Stack
+Python · PyTorch · PyTorch Geometric · scikit-learn · pandas · NumPy · NetworkX · BERTopic · Gensim
+
+## Contact
+Email: soonwoo3380@gmail.com
