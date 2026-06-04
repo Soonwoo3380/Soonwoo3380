@@ -2,7 +2,8 @@
 
 # Hi, I'm Soonwoo Kim ☺️
 
-### M.S. in Data Science  
+### M.S. in Data Science from Kyungpook National University  
+### Graduate School of Data Science  
 ### NLP · Topic Modeling · Graph Neural Networks · Interpretable Data Analysis
 
 I am interested in transforming unstructured text data into interpretable knowledge structures  
