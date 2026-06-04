@@ -13,16 +13,23 @@ I am interested in NLP, topic modeling, graph neural networks, and interpretable
   <img src="https://img.shields.io/badge/Data--driven%20Decision%20Support-17becf?style=for-the-badge"/>
 </p>
 
-## Featured Projects
-
 ### Graph Neural Network-Based Topic Model
+
 A master's thesis project integrating probabilistic topic information and embedding-based semantic information into a keyword graph.
 
 - Combined LDA-based probabilistic structure with BERTopic/SBERT embeddings
 - Constructed keyword graphs and applied GCN + DMoN clustering
 - Evaluated topics using coherence and modularity metrics
 
-Repository: gnn-topic-model
+<p>
+  <img src="https://img.shields.io/badge/Topic%20Modeling-1f77b4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-9467bd?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LDA-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BERTopic-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DMoN-6A5ACD?style=flat-square"/>
+</p>
+
+Repository: [gnn-topic-model](https://github.com/Soonwoo3380/gnn-topic-model)
 
 ### Meta-Community Topic Analysis
 A keyword network-based approach for integrating multiple similarity structures and extracting topic communities.
