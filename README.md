@@ -59,7 +59,7 @@ into a graph neural network-based topic modeling framework.
 - Combined LDA-based probabilistic structure with BERTopic/SBERT embeddings
 - Constructed keyword graphs using probabilistic relationships between words
 - Used embedding-based semantic information as node features
-- Applied GCN + DMoN clustering for topic extraction
+- Applied DMoN clustering for topic extraction
 - Evaluated topics using coherence and modularity metrics
 
 <p>
