@@ -128,7 +128,7 @@ Repository: [ml-implementations](https://github.com/Soonwoo3380/ml-implementatio
 ## 📫 Contact
 
 <p>
-  <a href="mailto:soonwoo3380@gmail.com">
+  <a href="mailto:soonwoo3380@naver.com">
     <img src="https://img.shields.io/badge/Email-soonwoo3380%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Soonwoo3380">
