@@ -3,8 +3,7 @@
 # Hi, I'm Soonwoo Kim ☺️
 
 ### B.A. in English Education from Yeongnam University
-### M.S. in Data Science from Kyungpook National University  
-### Graduate School of Data Science  
+### M.S. in Data Science from Graduate School of Data Science Kyungpook National University  
 ### NLP · Topic Modeling · Graph Neural Networks · Interpretable Data Analysis
 
 I am interested in transforming unstructured text data into interpretable knowledge structures  
