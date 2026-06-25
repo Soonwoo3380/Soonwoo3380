@@ -4,7 +4,7 @@
 
 ### B.Ed. in English Education from Yeongnam University
 ### M.S. in Data Science from Graduate School of Data Science Kyungpook National University  
-### NLP · Topic Modeling · Graph Neural Networks · Interpretable Data Analysis
+### Graph Representation · NLP
 
 I am interested in transforming unstructured text data into interpretable knowledge structures  
 by connecting topic modeling, keyword network analysis, and graph neural networks.
