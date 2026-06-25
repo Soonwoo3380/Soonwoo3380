@@ -2,7 +2,7 @@
 
 # Hi, I'm Soonwoo Kim ☺️
 
-### B.A. in English Education from Yeongnam University
+### B.Ed. in English Education from Yeongnam University
 ### M.S. in Data Science from Graduate School of Data Science Kyungpook National University  
 ### NLP · Topic Modeling · Graph Neural Networks · Interpretable Data Analysis
 
