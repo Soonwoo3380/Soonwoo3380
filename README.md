@@ -1,6 +1,6 @@
 <div align="center">
 
-English | 한국어
+[English](./README.md) | [한국어](./README.ko.md)
 
 # Hi, I'm Soonwoo Kim ☺️
 
