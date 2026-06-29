@@ -1,5 +1,7 @@
 <div align="center">
 
+English | 한국어
+
 # Hi, I'm Soonwoo Kim ☺️
 
 ### B.Ed. in English Education from Yeongnam University
