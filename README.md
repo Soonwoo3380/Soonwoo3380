@@ -129,11 +129,5 @@ Repository: [ml-implementations](https://github.com/Soonwoo3380/ml-implementatio
 
 ## 📫 Contact
 
-<p>
-  <a href="mailto:soonwoo3380@naver.com">
-    <img src="https://img.shields.io/badge/Email-soonwoo3380%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Soonwoo3380">
-    <img src="https://img.shields.io/badge/GitHub-Soonwoo3380-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-soonwoo3380%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:soonwoo3380@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Soonwoo3380-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soonwoo3380)
