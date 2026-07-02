@@ -28,7 +28,7 @@ by connecting topic modeling, keyword network analysis, and graph neural network
 
 ---
 
-## 📌 Research Trajectory
+## 📌 Featured Projects
 
 ### 1. Graph Neural Network-Based Topic Model
 
