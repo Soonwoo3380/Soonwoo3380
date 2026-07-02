@@ -2,17 +2,14 @@
 
 [English](./README.md) | [한국어](./README.ko.md)
 
-# 안녕하세요, 김순우입니다 ☺️
+# 안녕하세요, 김순우입니다. ☺️
 
 ### 영남대학교 영어교육과 학사
-
 ### 경북대학교 데이터사이언스대학원 석사
+### 그래프 표현 학습 · 자연어 처리
 
-### Graph Representation · NLP · Topic Modeling
-
-저는 비정형 텍스트 데이터를 해석 가능한 지식 구조로 변환하는 데 관심이 있습니다.
-토픽 모델링, 키워드 네트워크 분석, 그래프 신경망을 연결하여
-텍스트 데이터 속 의미 구조를 분석하고 설명하는 방법을 연구하고 있습니다.
+토픽 모델링, 키워드 네트워크 분석, 그래프 신경망을 활용하여
+비정형 텍스트 데이터를 해석 가능한 지식 구조로 변환하는 연구에 관심을 가지고 있습니다.
 
 </div>
 
@@ -21,55 +18,33 @@
 ## 🔬 연구 관심 분야
 
 <p>
-  <img src="https://img.shields.io/badge/Topic%20Modeling-1f77b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-9467bd?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-ff7f0e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Keyword%20Network-2ca02c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Interpretable%20Data%20Analysis-d62728?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/토픽%20모델링-1f77b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/그래프%20신경망-9467bd?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/자연어%20처리-ff7f0e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/키워드%20네트워크-2ca02c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/해석가능한%20데이터%20분석-d62728?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/데이터%20기반%20의사결정%20지원-17becf?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📌 연구 흐름
+## 📌 주요 프로젝트
 
-### 1. Meta-Community Topic Analysis
+### 1. 그래프 신경망 기반 토픽 모델
 
-키워드 네트워크 기반 토픽 분석을 탐색한 선행 연구 프로젝트입니다.
-여러 유사도 구조를 통합하고, 이를 바탕으로 토픽 커뮤니티를 추출하는 방식을 실험했습니다.
+키워드 네트워크 기반 토픽 분석을 그래프 신경망 기반 토픽 모델링으로 확장한
+석사 학위 논문 연구입니다.
 
-이 프로젝트는 이후 그래프 신경망 기반 토픽 모델 연구로 확장되는 기초가 되었습니다.
-
-* 여러 단어 유사도 행렬 통합
-* 공유 커뮤니티 구조를 기반으로 키워드 네트워크 구성
-* 커뮤니티 탐지를 통한 해석 가능한 토픽 그룹 추출
-* 서로 다른 토픽 정보를 네트워크 구조로 표현하는 방법 탐색
-
-<p>
-  <img src="https://img.shields.io/badge/Preliminary%20Research-555555?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Keyword%20Network-2ca02c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Community%20Detection-17becf?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Topic%20Analysis-1f77b4?style=flat-square"/>
-</p>
-
-Repository: [Meta_Community](https://github.com/Soonwoo3380/meta_community)
-
----
-
-### 2. Graph Neural Network-Based Topic Model
-
-키워드 네트워크 기반 토픽 분석 아이디어를
-그래프 신경망 기반 토픽 모델링 프레임워크로 확장한 석사 학위 연구입니다.
-
-* LDA 기반 확률 구조와 BERTopic/SBERT 기반 임베딩 정보 결합
-* 단어 간 확률적 관계를 활용한 키워드 그래프 구성
-* 임베딩 기반 의미 정보를 노드 특성으로 활용
-* DMoN 클러스터링을 적용하여 토픽 추출
-* Coherence와 Modularity 지표를 활용한 토픽 평가
+- LDA의 확률 정보와 BERTopic/SBERT 임베딩 정보를 결합
+- 단어 간 확률적 관계를 활용한 키워드 그래프 구축
+- 임베딩 기반 의미 정보를 노드 특성(Node Feature)으로 활용
+- DMoN 클러스터링을 이용한 토픽 추출
+- Coherence 및 Modularity 지표를 활용한 성능 평가
 
 <p>
-  <img src="https://img.shields.io/badge/Master's%20Thesis-8B0000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Topic%20Modeling-1f77b4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-9467bd?style=flat-square"/>
+  <img src="https://img.shields.io/badge/석사%20학위%20논문-8B0000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/토픽%20모델링-1f77b4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/그래프%20신경망-9467bd?style=flat-square"/>
   <img src="https://img.shields.io/badge/LDA-4B8BBE?style=flat-square"/>
   <img src="https://img.shields.io/badge/BERTopic-000000?style=flat-square"/>
   <img src="https://img.shields.io/badge/DMoN-6A5ACD?style=flat-square"/>
@@ -79,24 +54,25 @@ Repository: [gnn-topic-model](https://github.com/Soonwoo3380/gnn-topic-model)
 
 ---
 
-### 3. 경진대회 프로젝트
+### 2. AI 경진대회 프로젝트
 
-실제 데이터를 기반으로 문제를 정의하고, 피처 설계, 모델 검증, 앙상블, 성능 개선을 수행한 머신러닝 경진대회 프로젝트입니다.
+피처 엔지니어링, 모델 검증, 앙상블 기법을 활용하여
+실제 문제를 해결한 머신러닝 경진대회 프로젝트입니다.
 
-- LG Aimers 3기: 온라인 채널 제품 판매량 예측
-- LG Aimers 5기: 제품 이상 여부 판별
-- 도메인 기반 피처 설계와 반복적인 검증을 통해 모델 성능 개선 경험 축적
+- LG Aimers 3기 : 온라인 채널 제품 판매량 예측
+- LG Aimers 5기 : 제품 이상 여부 판별
+- 도메인 기반 피처 설계와 반복적인 검증을 통한 성능 개선
 
 Repository: [competition](https://github.com/Soonwoo3380/competition)
 
 ---
 
-### 4. Machine Learning Implementations
+### 3. 머신러닝 구현 프로젝트
 
-머신러닝 모델을 직접 구현하고 실험한 개인 학습 및 구현 저장소입니다.
+다양한 머신러닝 및 딥러닝 모델을 직접 구현하고 실험한 프로젝트입니다.
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/머신러닝-F7931E?style=flat-square"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square"/>
   <img src="https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=flat-square"/>
 </p>
@@ -107,14 +83,14 @@ Repository: [ml-implementations](https://github.com/Soonwoo3380/ml-implementatio
 
 ## 🛠 기술 스택
 
-### Language & Environment
+### 언어 및 개발 환경
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-### Data Analysis & Machine Learning
+### 데이터 분석 및 머신러닝
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -123,7 +99,7 @@ Repository: [ml-implementations](https://github.com/Soonwoo3380/ml-implementatio
   <img src="https://img.shields.io/badge/Gensim-5A5A5A?style=for-the-badge"/>
 </p>
 
-### Deep Learning & Graph Learning
+### 딥러닝 및 그래프 학습
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -131,7 +107,7 @@ Repository: [ml-implementations](https://github.com/Soonwoo3380/ml-implementatio
   <img src="https://img.shields.io/badge/NetworkX-2C7FB8?style=for-the-badge"/>
 </p>
 
-### NLP & Topic Modeling
+### 자연어 처리 및 토픽 모델링
 
 <p>
   <img src="https://img.shields.io/badge/BERTopic-000000?style=for-the-badge"/>
@@ -139,7 +115,7 @@ Repository: [ml-implementations](https://github.com/Soonwoo3380/ml-implementatio
   <img src="https://img.shields.io/badge/SBERT-FFCC00?style=for-the-badge"/>
 </p>
 
-### Machine Learning
+### 머신러닝
 
 <p>
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
@@ -150,7 +126,7 @@ Repository: [ml-implementations](https://github.com/Soonwoo3380/ml-implementatio
 
 ---
 
-## 📫 Contact
+## 📫 연락처
 
 [![Email](https://img.shields.io/badge/Email-soonwoo3380%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:soonwoo3380@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Soonwoo3380-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soonwoo3380)
