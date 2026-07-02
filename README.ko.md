@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Topic%20Analysis-1f77b4?style=flat-square"/>
 </p>
 
-Repository: [Meta_Community](https://github.com/Soonwoo3380/Meta_Community)
+Repository: [Meta_Community](https://github.com/Soonwoo3380/meta_community)
 
 ---
 
@@ -79,7 +79,19 @@ Repository: [gnn-topic-model](https://github.com/Soonwoo3380/gnn-topic-model)
 
 ---
 
-### 3. Machine Learning Implementations
+### 3. 경진대회 프로젝트
+
+실제 데이터를 기반으로 문제를 정의하고, 피처 설계, 모델 검증, 앙상블, 성능 개선을 수행한 머신러닝 경진대회 프로젝트입니다.
+
+- LG Aimers 3기: 온라인 채널 제품 판매량 예측
+- LG Aimers 5기: 제품 이상 여부 판별
+- 도메인 기반 피처 설계와 반복적인 검증을 통해 모델 성능 개선 경험 축적
+
+Repository: [competition](https://github.com/Soonwoo3380/competition)
+
+---
+
+### 4. Machine Learning Implementations
 
 머신러닝 모델을 직접 구현하고 실험한 개인 학습 및 구현 저장소입니다.
 
@@ -125,6 +137,15 @@ Repository: [ml-implementations](https://github.com/Soonwoo3380/ml-implementatio
   <img src="https://img.shields.io/badge/BERTopic-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LDA-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SBERT-FFCC00?style=for-the-badge"/>
+</p>
+
+### Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Optuna-2C3E50?style=for-the-badge"/>
 </p>
 
 ---
