@@ -49,7 +49,7 @@ This project served as the foundation for my later graph neural network-based to
   <img src="https://img.shields.io/badge/Topic%20Analysis-1f77b4?style=flat-square"/>
 </p>
 
-Repository: [Meta_Community](https://github.com/Soonwoo3380/Meta_Community)
+Repository: [Meta_Community](https://github.com/Soonwoo3380/meta_community)
 
 ---
 
@@ -77,7 +77,20 @@ Repository: [gnn-topic-model](https://github.com/Soonwoo3380/gnn-topic-model)
 
 ---
 
-### 3. Machine Learning Implementations
+### 3. Competition Projects
+
+Competition projects focused on practical machine learning problem solving,
+including feature engineering, model validation, ensemble modeling, and performance improvement.
+
+- LG Aimers 3rd: Online Channel Product Sales Prediction
+- LG Aimers 5th: Product Abnormality Classification
+- Improved model performance through domain-based feature engineering and iterative validation
+
+Repository: [competition](https://github.com/Soonwoo3380/competition)
+
+---
+
+### 4. Machine Learning Implementations
 
 Personal implementations and experiments for machine learning models.
 
@@ -123,6 +136,16 @@ Repository: [ml-implementations](https://github.com/Soonwoo3380/ml-implementatio
   <img src="https://img.shields.io/badge/BERTopic-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LDA-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SBERT-FFCC00?style=for-the-badge"/>
+</p>
+
+### Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Optuna-2C3E50?style=for-the-badge"/>
 </p>
 
 ---
