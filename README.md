@@ -30,30 +30,7 @@ by connecting topic modeling, keyword network analysis, and graph neural network
 
 ## 📌 Research Trajectory
 
-### 1. Meta-Community Topic Analysis
-
-A preliminary research project that explored keyword network-based topic analysis  
-by integrating multiple similarity structures and extracting topic communities.
-
-This project served as the foundation for my later graph neural network-based topic modeling research.
-
-- Integrated multiple word similarity matrices
-- Constructed keyword networks based on shared community structures
-- Applied community detection to extract interpretable topic groups
-- Explored how heterogeneous topic information can be represented as a network
-
-<p>
-  <img src="https://img.shields.io/badge/Preliminary%20Research-555555?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Keyword%20Network-2ca02c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Community%20Detection-17becf?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Topic%20Analysis-1f77b4?style=flat-square"/>
-</p>
-
-Repository: [Meta_Community](https://github.com/Soonwoo3380/meta_community)
-
----
-
-### 2. Graph Neural Network-Based Topic Model
+### 1. Graph Neural Network-Based Topic Model
 
 A master's thesis project that extends the idea of keyword network-based topic analysis  
 into a graph neural network-based topic modeling framework.
@@ -77,7 +54,7 @@ Repository: [gnn-topic-model](https://github.com/Soonwoo3380/gnn-topic-model)
 
 ---
 
-### 3. Competition Projects
+### 2. Competition Projects
 
 Competition projects focused on practical machine learning problem solving,
 including feature engineering, model validation, ensemble modeling, and performance improvement.
@@ -90,7 +67,7 @@ Repository: [competition](https://github.com/Soonwoo3380/competition)
 
 ---
 
-### 4. Machine Learning Implementations
+### 3. Additional Projects
 
 Personal implementations and experiments for machine learning models.
 
