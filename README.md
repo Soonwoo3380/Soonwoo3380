@@ -144,7 +144,6 @@ Repository: [ml-implementations](https://github.com/Soonwoo3380/ml-implementatio
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Optuna-2C3E50?style=for-the-badge"/>
 </p>
 
