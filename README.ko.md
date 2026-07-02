@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/DMoN-6A5ACD?style=flat-square"/>
 </p>
 
-Repository: [gnn-topic-model](https://github.com/Soonwoo3380/gnn-topic-model)
+저장소: [gnn-topic-model](https://github.com/Soonwoo3380/gnn-topic-model)
 
 ---
 
@@ -63,7 +63,7 @@ Repository: [gnn-topic-model](https://github.com/Soonwoo3380/gnn-topic-model)
 - LG Aimers 5기 : 제품 이상 여부 판별
 - 도메인 기반 피처 설계와 반복적인 검증을 통한 성능 개선
 
-Repository: [competition](https://github.com/Soonwoo3380/competition)
+저장소: [competition](https://github.com/Soonwoo3380/competition)
 
 ---
 
@@ -77,7 +77,7 @@ Repository: [competition](https://github.com/Soonwoo3380/competition)
   <img src="https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=flat-square"/>
 </p>
 
-Repository: [ml-implementations](https://github.com/Soonwoo3380/ml-implementations)
+저장소: [ml-implementations](https://github.com/Soonwoo3380/ml-implementations)
 
 ---
 
