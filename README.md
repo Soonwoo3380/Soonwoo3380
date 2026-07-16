@@ -4,7 +4,7 @@
 
 # Hi, I'm Soonwoo Kim ☺️
 
-### B.Ed. in English Education & M.S. in Data Science
+### M.S. in Data Science & B.Ed. in English Education
 ### Graph Representation · NLP
 
 I am interested in transforming unstructured text data into interpretable knowledge structures  
