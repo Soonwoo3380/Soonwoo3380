@@ -4,8 +4,7 @@
 
 # Hi, I'm Soonwoo Kim ☺️
 
-### B.Ed. in English Education from Yeongnam University
-### M.S. in Data Science from Graduate School of Data Science Kyungpook National University  
+### B.Ed. in English Education & M.S. in Data Science
 ### Graph Representation · NLP
 
 I am interested in transforming unstructured text data into interpretable knowledge structures  
