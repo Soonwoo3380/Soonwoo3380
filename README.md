@@ -64,6 +64,11 @@ designing informative features, and validating modeling decisions.
 - Analyzed variables based on the manufacturing process where they were generated
 - Applied process-specific modeling, imbalance handling, and ensemble learning
 
+#### News Article Label Recovery
+- Unsupervised text classification with SentenceBERT and KMeans
+- Recovered labels by interpreting cluster keywords and representative sentences
+- Final ranking: **8 / 129 teams**
+
 Repository: [competition](https://github.com/Soonwoo3380/competition)
 
 ---
