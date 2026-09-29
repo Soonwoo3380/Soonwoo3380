@@ -64,6 +64,11 @@ Repository: [gnn-topic-model](https://github.com/Soonwoo3380/gnn-topic-model)
 - 변수가 생성된 제조 공정을 기준으로 데이터 구조 분석
 - 공정별 분리 모델링, 클래스 불균형 대응, 앙상블 적용
 
+#### 뉴스 기사 레이블 복구
+- SentenceBERT와 KMeans를 활용한 비지도 텍스트 분류
+- 클러스터별 주요 키워드와 대표 문장을 분석해 레이블 복구
+- 최종 **129팀 중 8위**
+
 Repository: [competition](https://github.com/Soonwoo3380/competition)
 
 ---
