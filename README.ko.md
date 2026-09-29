@@ -1,6 +1,8 @@
-<div align="center">
+<h3 align="center">
+  <a href="./README.md">English</a> | <a href="./README.ko.md">한국어</a>
+</h3>
 
-[English](./README.md) | [한국어](./README.ko.md)
+<div align="center">
 
 # 안녕하세요 김순우입니다 잘 부탁드립니다 ☺️
 
